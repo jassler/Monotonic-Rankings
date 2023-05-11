@@ -1,0 +1,12 @@
+[package]
+name = "monorust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fxhash = "0.2.1"
+lazy_static = "1.4.0"
+lru = "0.10.0"
+rug = "1.19.2"
